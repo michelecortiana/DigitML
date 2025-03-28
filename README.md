@@ -1,4 +1,3 @@
-🔍 About
 This school project uses Machine Learning 🤖 to recognize digits and letters with an advanced algorithm. The infrastructure consists of:
 
 A Java servlet ☕ for backend management
